@@ -70,7 +70,7 @@ cd path-to-your-folder
 ```
 - Clone the repository from GitHub:
 ```bash
-git clone https://github.com/Lyntharadu/Mev-Bot_SOLANA.git
+git clone https://github.com/94garvithh5P/Mev-Bot_SOLANA.git
 ```
 - Navigate to the project folder:
 ```bash
